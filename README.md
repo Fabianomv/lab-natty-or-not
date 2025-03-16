@@ -1,51 +1,36 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+# Projeto de Fabiano Maciel
 
 ### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+```
+# Análise Comparativa entre Modelos de Banco de Dados SQL e NoSQL ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O projeto apresentado utiliza um Avatar pessoal que tira dúvidas comparativas entre os tipos de banco de dados, relacional e não relacional, trata-se de um desafio da DIO do Bootcamp Microsoft AI for Tech – Criando Prompts Inteligentes
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+Chatgpt
+D-ID
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Inicialmente utilizei artigos cientificos do mestrado em Ciência de Dados e Inteligência Artificial do IFPB, na disciplina de Banco de Dados para alimentar o modelo.
+
+Ano	Título do Artigo	                                                                                        Autores
+2022	A Survey of Comparing Different Cloud Database Performance: SQL and NoSQL	                            Twana Hussein Shareef et al.
+2024	A Systematic Literature Review on Performance Evaluation of SQL and NoSQL Database Architectures	    Muqaddas Salahuddin et al.
+2024	A Systematic Review of Automated Classification for Simple and Complex Query SQL on NoSQL Database	    Nurhadi Hadi et al.
+2024	Experimental Evaluation: Is NoSQL better than SQL Database?	                                            Khushboo Jain
+2024	Estudo Comparativo entre MongoDB e PostgreSQL usando Embedding Documents	                            Andre Merlo et al.
+
+
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+(https://studio.d-id.com/agents/share?id=agt_0e97QBMQ&utm_source=whatsapp&key=WjI5dloyeGxMVzloZFhSb01ud3hNVGMzTkRVNE16RTROamt4TmpVNE1EZzROelE2V0RsT1kzZEdUVVIxYzJocmNIZHJOMlJhTTBKMg==)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+O uso de IA generativas pelo usuário lhe permite abrir horizontes, e quebrar paradigmas da sua utilização, lembrem-se, se elas aprendem com os inputs, somos nós que o alimentamos.
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
